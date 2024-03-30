@@ -30,7 +30,7 @@ btn.addEventListener("click", (e)=>{
     <div class="container">
             <p>${inputName}</p>
             <p>${inputDate}</p>
-            <p>${inputPriority}</p>
+            <p>Priority : ${inputPriority}</p>
             <span>
             <img class="icon1" src="check-mark.png" alt="">
             <img class="icon2" src="delete.png" alt="">
@@ -58,7 +58,7 @@ btn.addEventListener("click", (e)=>{
     <div class="container">
     <p>${inputName}</p>
     <p>${inputDate}</p>
-    <p>${inputPriority}</p>
+    <p>Priority : ${inputPriority}</p>
     <span>
     <img class="icon1" src="check-mark.png" alt="">
     <img class="icon2" src="delete.png" alt="">

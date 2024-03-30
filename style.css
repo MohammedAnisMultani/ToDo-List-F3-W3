@@ -90,3 +90,19 @@ body{
     border: 1px solid red;
     border-radius: 5px;
 }
+
+@media screen and (max-width: 600px){
+    .styling{
+        width: 100%;
+    }
+    .nav{
+        display: flex;
+        width: 85vw;
+        /* display: flex;
+        justify-content: center;
+        align-items: center; */
+        margin: 20px;
+        
+        
+    }
+}
